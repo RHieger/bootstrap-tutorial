@@ -6,4 +6,4 @@ This repository is my work in preparation for getting a Bootstrap training certi
 
 All code is based on the exercises in the tutorial.
 
-For further information, consult the [Wiki]().
+For further information, consult the [Wiki](https://github.com/RHieger/bootstrap-tutorial/wiki).
